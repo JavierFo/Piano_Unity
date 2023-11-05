@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: 657b7f33ada5692428f5c65b21965246
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8629606446910523447
+    second: Propuestas-01-01_0
+  - first:
+      213: 6580358675389471738
+    second: Propuestas-01-01_1
+  - first:
+      213: -5147072274668547805
+    second: Propuestas-01-01_2
+  - first:
+      213: 5686858688438389982
+    second: Propuestas-01-01_3
+  - first:
+      213: 8526558940460348893
+    second: Propuestas-01-01_4
+  - first:
+      213: 6475398838929901872
+    second: Propuestas-01-01_5
+  - first:
+      213: -1065483788596104221
+    second: Propuestas-01-01_6
+  - first:
+      213: -6799614802129217015
+    second: Propuestas-01-01_7
+  - first:
+      213: -5720973917053288826
+    second: Propuestas-01-01_8
+  - first:
+      213: -1935362145877354731
+    second: Propuestas-01-01_9
+  - first:
+      213: -7051959399359495753
+    second: Propuestas-01-01_10
+  - first:
+      213: 1250397867843895098
+    second: Propuestas-01-01_11
+  - first:
+      213: -3955256707752185286
+    second: Propuestas-01-01_12
+  - first:
+      213: 8572839932393110684
+    second: Propuestas-01-01_13
+  - first:
+      213: 6045568821465477584
+    second: Propuestas-01-01_14
+  - first:
+      213: -8700955173591991834
+    second: Propuestas-01-01_15
+  - first:
+      213: -1744022598220525198
+    second: Propuestas-01-01_16
+  - first:
+      213: -4664978474624796957
+    second: Propuestas-01-01_17
+  - first:
+      213: -3935490318201077006
+    second: Propuestas-01-01_18
+  - first:
+      213: -7121149237659666418
+    second: Propuestas-01-01_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Propuestas-01-01_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3957
+        width: 774
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b0b0ec4ea0f234499da13669aa647c
+      internalID: 8629606446910523447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_1
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 4062
+        width: 764
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ee1940442b59d49ade22344567f777
+      internalID: 6580358675389471738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_2
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 3969
+        width: 653
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b191770e0df24542ac1da58b0c4df0e
+      internalID: -5147072274668547805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_3
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 3988
+        width: 764
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3c2bbf865ef1d4f9c5c7aada24c91c
+      internalID: 5686858688438389982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2960
+        width: 825
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f47bf39342d6c498084822646da34d
+      internalID: 8526558940460348893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_5
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 3133
+        width: 875
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed507586b7cb16f43b6d28aafc864df7
+      internalID: 6475398838929901872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_6
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 3062
+        width: 684
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c1cf06c8b2a804099357e6c460bb54
+      internalID: -1065483788596104221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_7
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 3046
+        width: 852
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b23fe84de8d2da4081e66bc54a0ed41
+      internalID: -6799614802129217015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1973
+        width: 802
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aaf457567f3b74fb5e0e3cec8728f3
+      internalID: -5720973917053288826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_9
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2158
+        width: 887
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1e4959758a8ff45912bc423aade1f5
+      internalID: -1935362145877354731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_10
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 2061
+        width: 719
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9236f1eb5de284947870a3f1fed31864
+      internalID: -7051959399359495753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_11
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 2142
+        width: 800
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e099df651df1314eb7cadd83760f7b0
+      internalID: 1250397867843895098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1029
+        width: 774
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df13e9b4dab31443aec1683d5f71ee8
+      internalID: -3955256707752185286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_13
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1228
+        width: 878
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205a5fda3c9f9234b952b90e8f63e652
+      internalID: 8572839932393110684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_14
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1155
+        width: 625
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1ed4f830419864280ec49497d9386a
+      internalID: 6045568821465477584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_15
+      rect:
+        serializedVersion: 2
+        x: 3921
+        y: 1202
+        width: 790
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daad2a244676414daec30618056f622
+      internalID: -8700955173591991834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 7
+        width: 797
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35412ec0c6bda9d4a834ff775ac13e8a
+      internalID: -1744022598220525198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_17
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 215
+        width: 904
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8432ea1152c2e49bfcd9bc5376e33c
+      internalID: -4664978474624796957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_18
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 65
+        width: 781
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed85a44d4226974e8975d7648ec31ef
+      internalID: -3935490318201077006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Propuestas-01-01_19
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 239
+        width: 946
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7678dcce565ba854c8654841135507d2
+      internalID: -7121149237659666418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6a6a142e09beee14994b8a9f2ba986b0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

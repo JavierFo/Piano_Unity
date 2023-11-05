@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Aceite
+  - Agua
+  - Arroz
+  - Atun
+  - Azucar
+  - Bistec
+  - Cafe
+  - Carne_molida
+  - Cereal
+  - Cloro
+  - Crema
+  - Espagueti
+  - Filete_pescado
+  - Frijoles_enlatados
+  - Galletas
+  - Jabon_barra
+  - Jamon
+  - Leche_1
+  - Leche_2
+  - Leche_3
+  - Mantequilla
+  - Piezas_pollo
+  - Pollo
+  - Queso_amarillo
+  - Queso_blanco
+  - Sal
+  - Salchichas
+  - Sopa
+  - Suavizante
+  - Verduras_enlatadas
+  - Yogurt
+  - DO 1
+  - RE 1
+  - MI 1
+  - FA 1
+  - SOL 1
+  - LA 1
+  - SI 1
+  - DO 2
+  - RE 2
+  - MI 2
+  - FA 2
+  - SOL 2
+  - LA 2
+  - SI 2
+  - DO#1
+  - RE#1
+  - FA#1
+  - SOL#1
+  - LA#1
+  - DO#2
+  - RE#2
+  - FA#2
+  - SOL#2
+  - LA#2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Productos
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 1253565363
+    locked: 0
+  - name: Alimentos
+    uniqueID: 256139039
+    locked: 0
+  - name: Personaje
+    uniqueID: 1768338961
+    locked: 0

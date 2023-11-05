@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{E1FC46FB-6695-2637-15EF-F43747259547}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PianoScripts/KeysController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PianoScripts/KeysController.cs" Line="449" Column="1" />
+      <File FileName="Assets/Scripts/PianoScripts/NotesPresenter.cs" Line="204" Column="1" />
+      <File FileName="Assets/Scripts/PianoScripts/NotesGenerator.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlataformaCognitiva" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="QuickOutline" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="PianoScripts" expanded="True">
+                  <Node name="KeysController.cs" selected="True" />
+                </Node>
+                <Node name="Restaurante" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="82ebb881-ba6d-497c-ac17-a2647106a920" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
